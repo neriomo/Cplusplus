@@ -7,6 +7,7 @@ introduccion a las Estructuras de control con un menú
 using namespace std;
 
 int main(){
+
 int opcion, num;
 double media,value;        // tipo de dato primitivo
 int numero;
