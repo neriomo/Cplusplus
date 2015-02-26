@@ -1,0 +1,68 @@
+//Nerio Moran edo Merida 25 de febrero del 2015 18:00
+//Breve Introduccion a C++
+
+El software (las instrucciones que se escriben para ordenar a la computadora que realize acciones y tome decisiones)
+es quien controla la computadora ( a menuda llamada hardware). 
+
+//La organizacion de la computadora de maneral muy general esta dada por:
+- Unidad de Entrada
+- Unidad de Salida
+- Unidad de Memoria
+- Unidad Aritmetica-Logica
+- Unidad central de procesamiento
+- Unidad secundaria de memoria
+
+//Lenguaje Maquina, Lenguajes ensambladores y de alto nivel
+
+Los programadores escriben instrucciones en diversas lenguajes de programacion, algunos de estos lenaguajes los 
+comprende directamente la computadora, mientras que otros requieren pasos intermedios de traduccion.
+
+Son Tres tipos generales:
+- Lenguaje Maquina
+- Lenguaje Ensamblador
+- Lenguaje Alto Nivel
+
+//Historia C y C++
+
+C++, evoluciono de c, que a su vez, evoluciono de 2 lenguajes de programacion anteriores BCPL y B. La amplia
+utilizacion de C para distintos tipos de computadoras(Plataformas Hardware) ocasionó muchas variantes. 
+Estas eran similares pero a menudo incompatibles. En 1983, se creo el comite tecnico X3J11 bajo la supervision
+de /*American Nationals Standar Commitee on Computer and Information Processing*/ para proporcionar una definicion
+del lenguaje clara e idenpendiente de la computadora o hardware.
+
+Debido a que C es un lenguaje ampliamente disponible, independiente de la plataforma, y standarizado, las 
+aplicaciones escritas en C a menudo pueden ejecutarse sobre un amplio rango de sistemas de computo y con muy
+pocas o ningunca modificacion.
+
+A principios de la decada de los 80 Bjarne Stroustrup desarrollo una extension de C en los Laboratorios Bell "C++"
+C++ proporciona un conjunto de Caracteristicas que "pulen" al lenguaje C; pero lo mas importante
+proporciona la capacidad de una programacion orientada a objetos.
+
+Los objetos son, escencialemente, componente reutilizables de software que modelan elementos reales.
+
+//La Biblioteca Standar de C++
+
+Los programas en C++ constan de piezas llamadas clases y funciones. La biblioteca Estandar de C++ proporciona
+una gran cantidad de clases y funciones que deben ser aprovechadas al maximo.
+
+Dos objetivos son necesarios:
+-Se deben aprender el lenguaje C++ en si mismo
+-Se debe aprender a usar sus funciones y clases de la biblioteca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
