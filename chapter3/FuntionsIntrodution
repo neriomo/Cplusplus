@@ -1,0 +1,31 @@
+/*Nerio Moran edo Merida 26 de febrero 2015 12:28
+
+*/
+
+*Funciones*:  La mayoria de los programas que resuelven problemas reales son mas grandes que los programas
+que presentamos en los primeros capitulos. La experiencia nos ha demostrado que la mejor manera
+de desarrollar y manter un programa grande es construirlo a partir de piezas pequeñas o componentes
+mas pequeños, mas manejables que el programa original. Esta tecnica se llama "divide y venceras". Este Capitulo
+muchas de las caracteristicas del Lenguaje C++ que facilitan el diseño, implementacion, operacion y mantenimiento
+de programas "grandes".
+
+
+*Componentes de un programa en C++*: 
+A los modulos de C++ se les llama "funciones y clases". Los programas en C++ por lo general se escriben
+combinando nuevas funciones que el progrador escribe mediante las funciones "predefinidas"  que se encuentran disponibles
+en la biblioteca standar de C++, y con las clases que el programador escribe mediante las clases "predefinidas" que se encuentran
+definidas en la biblioteca de Clases.
+
+La biblioteca de C++ proporciona una rica coleccion de funciones para realizar calculos matematicos comunes, manipulacion de cadenas,
+manipulacion de caracteres, entrada/salida, verificacion de errores y muchas otras operaciones utiles. Esto hace que el trabajo del programador sea mucho mas sencillo debido a que estas funciones proporcionan muchas de las capacidad es que ellos requieren. 
+
+"Las funciones de la biblioteca estandar de C++ son parte del ambiente de programacion de [C++]" 
+
+
+Las funciones definen tareas especificas, las cuales pueden ser utilizadas en muchos puntos de un programa. En ocasiones a estás
+se les denomina "funciones definidas por el programador". Las instrucciones reales que definen la funcion se escriben solo una vez,
+y dichas instrucciones están ocultas para otras funciones. Las instrucciones reales se escriben una sola vez, y dichas instrucciones
+estan ocultas para otras funciones.
+
+Una funcion se invoca, mediante una llamada a la funcion. La llamada a la funcion especifica el nombre de la funcion y proporciona
+informacion("como argumentos") que la funcion indicada necesita para hacer su trabajo.
