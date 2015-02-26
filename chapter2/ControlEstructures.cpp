@@ -21,7 +21,7 @@ cin>>opcion;
 
 switch(opcion){
 
-case 1:
+case 1:     // ingresa un numero positivo y si es asi el terminal lo muestra
    cout<<"ingrese un numero positivo"<<endl;
    cin>>num;
    if(num >= 0)
@@ -31,7 +31,7 @@ case 1:
       
 break;
 
-case 2:
+case 2:     // ingresa un numero entero y el terminal muestra si es positivo o negativo
       cout<<"ingrese un numero positivo o negativo"<<endl;
    cin>>num;
    if(num >= 0)
@@ -44,7 +44,7 @@ case 2:
          
 break;
 
-case 3:
+case 3:     // genera la media de tamaño n(tamaño fijo) de numeros suministrada por el usuario
       
       media = 0;
       cout<<"ingrese el tañaño n"<<endl;
@@ -58,7 +58,7 @@ case 3:
        cout<<"la media para "<<numero<<" numeros es "<<double(media/numero)<<endl;
 break;
        
-case 4:
+case 4:  // genera la media de n numeros suministrada por el usuario
       
       media = 0;
       cout<<"ingrese un numero, para salir ingrese un numero negativo"<<endl;
@@ -74,7 +74,7 @@ case 4:
 break;
 
 
-case 5:
+case 5: //muestra los numeros del 0 al 10 mostrando antes de revisar la condicion
       numero =0;
       do {
          cout<<numero<<" ";       
