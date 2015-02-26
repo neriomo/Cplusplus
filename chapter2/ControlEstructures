@@ -1,0 +1,41 @@
+/*Nerio Moran edo Merida 25 de febrero 2015 21:31
+introduccion  a las estructuras de control
+*/ 
+
+
+C++ solo tiene 7 estructuras de control
+- Secuencia             La secuencia del programa
+- Desicion Simple       if
+- Desicion Doble        if{}else{}
+- Desicion Multiple     switch(variable)
+                        
+                        case:1
+                           cuerpo para el caso cuando variable es igual a 1
+                        break;
+                        case:2 
+                           cuerpo para el caso cuando variable es igual a 2
+                        break;
+                         .
+                         .
+                         .
+                        case: n
+                           cuerpo para el caso cuadno variable es igual a n
+                        break;
+                          
+                        default:
+                           cuerpo para el caso no encontrado
+                         
+                        break;  Es para ejecutar la salida del switch
+                       
+
+
+- Repetir               for(inicializador; condicion; incrementador)
+- Repetir mientras      while(condicion){}
+- Hacer mientras        do{cuerpo o intrucciones}while(condicion);
+
+
+Cada programa en C++ combina tantas de estas estructuras de control como sea apropiado para el algoritmo
+que implementa el programa. Estas estructuras de control entrada/salida sencilla hacen facil la construccion
+de programas, Las estructuras de control se conectan entre si, al conectar el punto de salida de una
+estructura de control al punto de entrada de la siguiente a esto le llamamos apilamiento de estructuras de control
+
