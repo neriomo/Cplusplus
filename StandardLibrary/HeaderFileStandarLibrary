@@ -1,0 +1,78 @@
+/* Nerio Moran edo Merida 26 febrero 2015 20:43
+Introduccion a los Archivo de encabezado de la biblioteca estandar
+*/
+
+#include <cassert> Contiene macros para agregar diagnosticos que ayuden a la correccion del programa.
+
+#include <cctype>  Contiene prototipos de funcion que evaluan ciertas propiedades ciertas propiedades 
+                   de los caracteres, y prototipos de funcion que se utilizan para convertir caracteres de minusculas 
+                   a mayusculas y viceversa.
+                  
+#include <cfloat>  Contiene los limites del sistema con respecto al tamaño de los numeros de punto flotante.
+
+#include <climits> Contiene los limites del sistema para numeros enteros.
+
+#include <cmath>   Contiene prototipos de funcion de la biblioteca de funciones matematicas
+
+#include <cstdio>  Contiene prototipos de funcion para las funciones de entrada/salida de la biblioteca al
+                   estilo C, y la informacion utilizadas por estas.
+                  
+#include <cstdlib> Contiene prototipos de funcion para la conversion de numeros a texto, de texto a numeros,
+                   para asignacion de memoria, de numeros aleatorios y otras funciones utiles.
+                   
+#include <cstring> Contine prototipos de funcion para funcion
+
+#include <ctime>   Contiene prototipos de funcion y tipos para manipular fechas y horas.
+
+#include <iostream> Contiene prototipos de funcion para las funciones de entrada/salida estandar de C++.
+
+#include <iomanip>  Contine prototipos de funcion para manipuladores de flujo que dan formato a flujos de datos.
+
+#include <fstream>  Contiene prototipos de funcion para funciones que realizan la entrada y salida desde archivos
+                    en disco.
+                    
+#include <utility>  Contiene clases y funciones que se utilizan por muchos archivos de encabezado de la biblioteca estandar
+
+
+
+#include <vector>,<list>,<deque>,<queue>,<stack>,<map>,<set>,<bitset> 
+Estos archivos de encabezado contienen clases que implementan los contenedores de la biblioteca estandar. Los contenedores
+almacenan datos durante la ejecucion de un programa. Explicaremos estos archivos de encabezado en el capitulo 21, Biblioteca
+estandar de plantillas(STL)
+
+#include <funtional> Contiene clases y funciones utilizadas por los algoritmos de la biblioteca estandar.
+
+#include <memory> Contiene clases y funciones utilizadas por la biblioteca estandar para asignar memoria a los contenedores
+                  De la biblioteca estandar.
+                  
+#include <iterator> Contiene clases para acceder a datos de los contenedores de la biblioteca estandar.
+
+#include <algorithm> Contiene funciones para manipular datos de los contenedores de la biblioteca estandar
+
+#include <exception> Es archivos de encabezado contiene clases que se utilizan para manejar excepciones 
+                     (Las cuales se explicaran mas adelante)
+                     
+#include <string>  Contiene la definicion de la clase string de la biblioteca estandar.
+
+#include <sstream> Contiene prototipos de funciones para funciones que realizan la entrada y salida de cadenas de memoria
+                  
+#include <locale> Contiene clases y funciones que se utilizan, por lo general, por el procesamiento de flujos para procesar
+                  datos de manera natural para diferentes lenguajes por ejemplo formatos de moneda, ordenamiento de cadenas, 
+                  presentacion de caracteres entre otros.
+                  
+#include <limits> Contiene clases para para definir los limites para los tipos de datos numericos en cada plataforma de computacion
+               
+#include <typeinfo> Contiene clases para la identificacion de tipos en tiempo de ejecucion (determinacion de tipo de datos en
+                    tiempo de ejecucion) 
+
+Se haran ejemplos de todos los metodos, mas los nuevos incluidos en C++11 de cada una de las cabezeras de la libreria estandar
+
+
+
+
+
+
+
+
+
+
