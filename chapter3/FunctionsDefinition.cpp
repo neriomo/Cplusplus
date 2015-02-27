@@ -17,13 +17,17 @@ efectiva dicha tarea. Esto promueve la reutilizacion de software
 using namespace std;
                                  //prototipo de funcion
 double Cuadrado(double);         //tipo dato retorno identificador( paramentros );
-double Raiz(double);
-int Redondeo(double);
+double Raiz(double);             //Retorna un tipo de dato double
+int Redondeo(double);            //retorna un tipo de dato int
+void Mostrar(double);            //no retorna nada
+
 
 int main(){
 double numero;
 cout<<"Introduzca un numero x real\n";
 cin>>numero;
+cout<<"El numero es "<<endl;
+Mostrar(numero);
 cout<<"El cuadrado es "<<Cuadrado(numero)<<endl;
 cout<<"La raiz cuadrada es "<<Raiz(numero)<<endl;
 cout<<"El redondeo es "<<Redondeo(numero)<<endl;
@@ -52,7 +56,10 @@ int Redondeo(double numero)
    return ceil(numero);
 }
 
-
+void Mostrar(double numero)
+{
+cout<<numero<<endl;
+}
 
 
 
