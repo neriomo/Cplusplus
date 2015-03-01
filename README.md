@@ -40,6 +40,7 @@ tienen derechos de autor xP.
 #Chapter5: Pointers
 
 
+
 #StandarLibrary:
 -HeaderFileStandarLibrary-----"Libreria Estandard de C++ Introdution a algunas de las librerias y usos"
 -RandonNumbers.cpp------------"Ejemplo numeros seudoaleatorios rand() con el uso de la libreria <cstdlib>"
