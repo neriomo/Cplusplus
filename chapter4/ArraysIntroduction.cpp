@@ -1,5 +1,5 @@
 /*Nerio Moran edo Merida 1 de marzo 2015 15:36	}	
-Introduccion a los Arreglos (Arrays)  
+Introduccion a los Arreglos (Arrays)   
 
 Los (arreglos) arrays es una de las mas importantes Estructuras de datos. Los arreglos son estructuras de datos que 
 consisten en elementos de datos relacionados del mismo tipo.
