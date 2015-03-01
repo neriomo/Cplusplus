@@ -13,4 +13,5 @@ En esta nueva era, lo que te hace libre es el conocimiento, no el trabajo.
 #Anxo Pérez
 Invierte en conocimiento. Si tienes un momento muerto, aprende algo nuevo y habrá cobrado vida.
 
-
+#Benjamin Franklin
+"No hay inversión más rentable que la del conocimiento""
