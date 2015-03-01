@@ -40,7 +40,10 @@ tienen derechos de autor xP.
 
 
 
-
+#StandarLibrary:
+-HeaderFileStandarLibrary-----"Libreria Estandard de C++ Introdution a algunas de las librerias y usos"
+-RandonNumbers.cpp------------"Ejemplo numeros seudoaleatorios rand() con el uso de la libreria <cstdlib>"
+-SeedRandonNumber.cpp---------"Ejemplo de numero aleatorios utilizando semilla y uso de la libreria <ctime> "
 
 
 #Elfriede Jelinek 
