@@ -4,6 +4,43 @@ Todos los temas basico y avanzados del lenguaje c++ con nuevas caracteristicas d
 No solo son ejercicios, es teoria resumida recolectada de libros de gran prestigio sobre el lenguaje y que ademas
 tienen derechos de autor xP. 
 
+#Chapter1: Basics of C++
+-IntrodutionC++  "introduccion"                                                                                                        
+-HelloWorld.cpp   "Hola mundo"                                                                                                         
+-ScapeSecuence.cpp "Escape de secuencia C++ \n, \a, \r, \", \ "                                                                        
+-AritmeticsOperators.cpp      "Operadores aritmeticos +, -, *, /, % "                                                                  
+-AlgebraicOperators.cpp       "Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
+
+#Chapter2: Control Estructures
+-ControlEstructures     "Introdution a las Estructuras de Control"                                                                     
+-LogicOperator.cpp      "Operadores logico de C++ And, or, tipo de dato booleano"                                                      
+-ControlEstructures.cpp "Ejemplo de todas las estructuras de control"(faltan ejemplos)                                                 
+-BreakContinue.cpp      "Ejemplo del uso de Break and Continue"                                                                        
+
+#Chapter3: Functions
+-FunctionsIntroduction  "Introdution a las funciones en C++"                                                                           
+-FunctionsDefinition.cpp  "Definicion de una funcion con parametros por valor"                                                         
+-PrimitiveDatas.cpp        "Tipos de Datos primitivos de C++"                                                                          
+-CmathExamples.cpp         "Ejemplo de la libreria Standar de C++ <cmath> "                                                            
+-Referencefunctions.cpp    "Funciones Parametros por referencia"                                                                       
+-StorageClass.cpp          "Clases de almacenamiento stactic y automatic. y Reglas de alcance "                                        
+-OverriderFunctions.cpp    "Sobrecarga de funciones "                                                                                  
+-ScopeResolutionOperator.cpp  "Operador unario de resolucion de Alcance"
+-InlineFunctions.cpp       "Funciones Inline "
+-RecursionFunctions.cpp    "Funciones Recursivas caso base y paso de recursion"                                                        
+-FibonacciFunctions.cpp    "Ejemplo de Funcion de Fibonnaci (Recursividad)"                                                            
+
+#Chapter4: Arrays
+
+
+
+
+
+
+
+
+
+
 
 
 #Elfriede Jelinek 
