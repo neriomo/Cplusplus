@@ -37,8 +37,8 @@ Un arreglo se puede inincializar mediante una variable constante
 #include <iomanip>
 using namespace std;
 
-void MostrarArreglo(int [10]); // prototipo de funcion que muestra arrays
-
+void MostrarArreglo(int [], int); // prototipo de funcion que muestra arrays (arreglo, tamaño) el tamaño es obligatorio
+									//Siempre se debe escribir el tipo de dato y [] para especificar que es un arreglo
 
 int main(){
 cout<<"EJEMPLO DE USO DE ARREGLOS "<<endl;
@@ -61,22 +61,22 @@ int enteros3[tamano_arreglo] = {0}; // los arrays siempre se debe declarar bajo 
  		}
 
  cout<<"Mostramos los elementos del arreglo incializados media un ciclo for"<<endl;
- MostrarArreglo(enteros);
+ MostrarArreglo(enteros,10);
  cout<<endl;
  cout<<"Mostramos los elementos del arreglo inicializados mediante una lista de inicializacion"<<endl;
- MostrarArreglo(enteros2);
+ MostrarArreglo(enteros2,10);
  cout<<"Mostramos los elementos del arreglo incializados mediante una variable constante"<<endl;
- MostrarArreglo(enteros3);
+ MostrarArreglo(enteros3,10);
 
 	return 0;
 }
 
 // definicion de la funcion
 
-void MostrarArreglo(int arreglo[10])
+void MostrarArreglo(int arreglo[], int tam)
 {
 	cout<< "Elemento" << setw(13) << "valor "<<endl;
- 	for(int j = 0; j < 10; ++j)
+ 	for(int j = 0; j < tam; ++j)
  	{
  		
  		cout<< setw(7) << j << setw(13) << arreglo[j] <<endl;
