@@ -19,7 +19,7 @@ Existen otros tipo de arreglos basados en objetos que son mas seguros y versatil
 Los Arreglos son grupo consecutivo de localidades de memoria que tienen el mismo nombre y elmismo tipo. 
 definificion de un arreglo en C++. Su declaracion es de la siguiente manera:
 
-tipo Identificador[tamaño n];		El arreglo contiene n elementos
+tipo Identificador[tamaño n];				El arreglo contiene n elementos
 											El primer elemento de cada arreglo es el elemento 0 es decir identificador[0];
 El elemento n de un arreglo es [n]
 El elemento 1er,2do,3ro,4to,5to de un arreglo son [0],[1],[2],[3],[4],...[n-1]
