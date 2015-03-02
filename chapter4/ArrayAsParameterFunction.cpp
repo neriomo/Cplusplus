@@ -42,7 +42,7 @@ void ModificarArray(int arreglo[], int tamano)
 {
 	for (int i = 0; i < tamano; i++)
 	{
-		arreglo[i]*= 10;
+		arreglo[i]*= 10;			//multiplicamos por 10 cada elemento del arreglo
 	}
 }
 
