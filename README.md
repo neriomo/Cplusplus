@@ -1,5 +1,5 @@
 # Cplusplus C++
-Todos los temas basico y avanzados del lenguaje c++ con nuevas caracteristicas de c++11 
+*Todos los temas basico y avanzados del lenguaje c++ con nuevas caracteristicas de c++11* 
 
 No solo son ejercicios, es teoria resumida recolectada de libros de gran prestigio sobre el lenguaje 
 y que puede ser de ayuda para quien desee practicar o recordar el lenguaje.
