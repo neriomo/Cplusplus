@@ -25,17 +25,28 @@ tienen derechos de autor xP.
 >CountDays.cpp----------------"Contar dias dadas dos fechas validas usando estrutucturas de desicion"                                                                  
 
 ## *Chapter3: Functions*
--FunctionsIntroduction--------"Introdution a las funciones en C++"                                                                     
+-FunctionsIntroduction--------"Introdution a las funciones en C++"      
+
 -FunctionsDefinition.cpp------"Definicion de una funcion con parametros por valor"                                                     
+
 -PrimitiveDatas.cpp-----------"Tipos de Datos primitivos de C++"                                                                       
+
 -CmathExamples.cpp------------"Ejemplo de la libreria Standar de C++ <cmath> "                                                         
+
 -Referencefunctions.cpp-------"Funciones Parametros por referencia"                                                                    
+
 -StorageClass.cpp-------------"Clases de almacenamiento stactic y automatic. y Reglas de alcance "                                     
+
 -OverriderFunctions.cpp-------"Sobrecarga de funciones "                                                                               
+
 -ScopeResolutionOperator.cpp--"Operador unario de resolucion de Alcance"                                                               
+
 -InlineFunctions.cpp----------"Funciones Inline "                                                                                      
+
 -RecursionFunctions.cpp-------"Funciones Recursivas caso base y paso de recursion"                                                     
+
 -FibonacciFunctions.cpp-------"Ejemplo de Funcion de Fibonnaci (Recursividad)"
+
 -ExampleMenu.cpp--------------"Ejemplod de un menu usando Funciones(Prog Modular)"                                                         
 ## *Chapter4: Arrays*
 -ArraysIntroduction.cpp-------"Ejemplo de arreglos, tipo de inicializacion y de declaracion"                                           
