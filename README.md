@@ -13,10 +13,15 @@ tienen derechos de autor xP.
 
 ## *Chapter2: Control Estructures*
 >ControlEstructures-----------"Introdution a las Estructuras de Control"                                       
+
 >LogicOperator.cpp------------"Operadores logico de C++ And, or, tipo de dato booleano"                                                
+
 >ControlEstructures.cpp-------"Ejemplo de todas las estructuras de control"(faltan ejemplos)                                           
+
 >BreakContinue.cpp------------"Ejemplo del uso de Break and Continue"
+
 >menu.cpp---------------------"Ejemplo de un menu utilizacionn estructuras de desicion"
+
 >CountDays.cpp----------------"Contar dias dadas dos fechas validas usando estrutucturas de desicion"                                                                  
 
 ## *Chapter3: Functions*
