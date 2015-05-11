@@ -5,13 +5,19 @@ No solo son ejercicios, es teoria resumida recolectada de libros de gran prestig
 tienen derechos de autor xP. 
 
 ## *Chapter1: Basics of C++*
--IntrodutionC++---------------"introduccion"                                                                                           
--HelloWorld.cpp---------------"Hola mundo"                                                                                             
--ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
--AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
--AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
+
+>IntrodutionC++---------------"introduccion"                                                                                           
+
+>HelloWorld.cpp---------------"Hola mundo"                                                                                             
+
+>ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
+
+>AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
+
+>AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
 
 ## *Chapter2: Control Estructures*
+
 >ControlEstructures-----------"Introdution a las Estructuras de Control"                                       
 
 >LogicOperator.cpp------------"Operadores logico de C++ And, or, tipo de dato booleano"                                                
@@ -25,36 +31,44 @@ tienen derechos de autor xP.
 >CountDays.cpp----------------"Contar dias dadas dos fechas validas usando estrutucturas de desicion"                                                                  
 
 ## *Chapter3: Functions*
+
 -FunctionsIntroduction--------"Introdution a las funciones en C++"      
 
--FunctionsDefinition.cpp------"Definicion de una funcion con parametros por valor"                                                     
+>FunctionsDefinition.cpp------"Definicion de una funcion con parametros por valor"                                                     
 
--PrimitiveDatas.cpp-----------"Tipos de Datos primitivos de C++"                                                                       
+>PrimitiveDatas.cpp-----------"Tipos de Datos primitivos de C++"                                                                       
 
--CmathExamples.cpp------------"Ejemplo de la libreria Standar de C++ <cmath> "                                                         
+>CmathExamples.cpp------------"Ejemplo de la libreria Standar de C++ <cmath> "                                                         
 
--Referencefunctions.cpp-------"Funciones Parametros por referencia"                                                                    
+>Referencefunctions.cpp-------"Funciones Parametros por referencia"                                                                    
 
--StorageClass.cpp-------------"Clases de almacenamiento stactic y automatic. y Reglas de alcance "                                     
+>StorageClass.cpp-------------"Clases de almacenamiento stactic y automatic. y Reglas de alcance "                                     
 
--OverriderFunctions.cpp-------"Sobrecarga de funciones "                                                                               
+>OverriderFunctions.cpp-------"Sobrecarga de funciones "                                                                               
 
--ScopeResolutionOperator.cpp--"Operador unario de resolucion de Alcance"                                                               
+>ScopeResolutionOperator.cpp--"Operador unario de resolucion de Alcance"                                                               
 
--InlineFunctions.cpp----------"Funciones Inline "                                                                                      
+>InlineFunctions.cpp----------"Funciones Inline "                                                                                      
 
--RecursionFunctions.cpp-------"Funciones Recursivas caso base y paso de recursion"                                                     
+>RecursionFunctions.cpp-------"Funciones Recursivas caso base y paso de recursion"                                                     
 
--FibonacciFunctions.cpp-------"Ejemplo de Funcion de Fibonnaci (Recursividad)"
+>FibonacciFunctions.cpp-------"Ejemplo de Funcion de Fibonnaci (Recursividad)"
 
--ExampleMenu.cpp--------------"Ejemplod de un menu usando Funciones(Prog Modular)"                                                         
+>ExampleMenu.cpp--------------"Ejemplod de un menu usando Funciones(Prog Modular)"                                                         
 ## *Chapter4: Arrays*
--ArraysIntroduction.cpp-------"Ejemplo de arreglos, tipo de inicializacion y de declaracion"                                           
--StacticAutomaticArryas.cpp---"Uso de las clases de almacenamiento Estatic y Automatic(Rendimiento)"
--ArraysCharExample.cpp-----"Inicializacion de Cadenas y Arreglos de Caracteres, Acceso, Modificacion"
--ArrayAsParametercpp-------"Introduccion funciones y Caracteristicas del paso de arreglos a funciones"
--HistogramExample.cpp-----"Ejemplo de un histrograma usando arreglos".
--RandonQuestion.cpp-------"Ejemplo de juego que generar preguntas aleatoriamente y genera "puntaje" "
+
+>ArraysIntroduction.cpp-------"Ejemplo de arreglos, tipo de inicializacion y de declaracion"                                           
+
+>StacticAutomaticArryas.cpp---"Uso de las clases de almacenamiento Estatic y Automatic(Rendimiento)"
+
+>ArraysCharExample.cpp-----"Inicializacion de Cadenas y Arreglos de Caracteres, Acceso, Modificacion"
+
+>ArrayAsParametercpp-------"Introduccion funciones y Caracteristicas del paso de arreglos a funciones"
+
+>HistogramExample.cpp-----"Ejemplo de un histrograma usando arreglos".
+
+>RandonQuestion.cpp-------"Ejemplo de juego que generar preguntas aleatoriamente y genera "puntaje" "
+
 
 
 5. Chapter5: Pointers
