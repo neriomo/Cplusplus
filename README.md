@@ -4,14 +4,14 @@ Todos los temas basico y avanzados del lenguaje c++ con nuevas caracteristicas d
 No solo son ejercicios, es teoria resumida recolectada de libros de gran prestigio sobre el lenguaje y que ademas
 tienen derechos de autor xP. 
 
-1. Chapter1: Basics of C++
+1. *Chapter1: Basics of C++*
 -IntrodutionC++---------------"introduccion"                                                                                           
 -HelloWorld.cpp---------------"Hola mundo"                                                                                             
 -ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
 -AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
 -AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
 
-2. Chapter2: Control Estructures
+2. *Chapter2: Control Estructures*
 -ControlEstructures-----------"Introdution a las Estructuras de Control"                                       
 -LogicOperator.cpp------------"Operadores logico de C++ And, or, tipo de dato booleano"                                                
 -ControlEstructures.cpp-------"Ejemplo de todas las estructuras de control"(faltan ejemplos)                                           
@@ -19,7 +19,7 @@ tienen derechos de autor xP.
 -menu.cpp---------------------"Ejemplo de un menu utilizacionn estructuras de desicion"
 -CountDays.cpp----------------"Contar dias dadas dos fechas validas usando estrutucturas de desicion"                                                                  
 
-3. Chapter3: Functions
+3. *Chapter3: Functions*
 -FunctionsIntroduction--------"Introdution a las funciones en C++"                                                                     
 -FunctionsDefinition.cpp------"Definicion de una funcion con parametros por valor"                                                     
 -PrimitiveDatas.cpp-----------"Tipos de Datos primitivos de C++"                                                                       
@@ -32,7 +32,7 @@ tienen derechos de autor xP.
 -RecursionFunctions.cpp-------"Funciones Recursivas caso base y paso de recursion"                                                     
 -FibonacciFunctions.cpp-------"Ejemplo de Funcion de Fibonnaci (Recursividad)"
 -ExampleMenu.cpp--------------"Ejemplod de un menu usando Funciones(Prog Modular)"                                                         
-4. Chapter4: Arrays
+4. *Chapter4: Arrays*
 -ArraysIntroduction.cpp-------"Ejemplo de arreglos, tipo de inicializacion y de declaracion"                                           
 -StacticAutomaticArryas.cpp---"Uso de las clases de almacenamiento Estatic y Automatic(Rendimiento)"
 -ArraysCharExample.cpp-----"Inicializacion de Cadenas y Arreglos de Caracteres, Acceso, Modificacion"
@@ -46,15 +46,15 @@ tienen derechos de autor xP.
 
 
 
-#StandarLibrary:
+##StandarLibrary:
 -HeaderFileStandarLibrary-----"Libreria Estandard de C++ Introdution a algunas de las librerias y usos"
 -RandonNumbers.cpp------------"Ejemplo numeros seudoaleatorios rand() con el uso de la libreria <cstdlib>"
 -SeedRandonNumber.cpp---------"Ejemplo de numero aleatorios utilizando semilla y uso de la libreria <ctime> "
 
 
 
-`Por hacer`
-1. Utilizar buenas practicas (Codigo Limpio)
+#Por hacer
+1. **Utilizar buenas practicas (Codigo Limpio)**
 
 
 #Elfriede Jelinek 
