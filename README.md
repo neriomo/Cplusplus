@@ -5,11 +5,10 @@ No solo son ejercicios, es teoria resumida recolectada de libros de gran prestig
 tienen derechos de autor xP. 
 
 ## *Chapter1: Basics of C++*
--IntrodutionC++---------------"introduccion"                                                                                           
--HelloWorld.cpp---------------"Hola mundo"                                                                                             
--ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
--AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
--AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
+1. IntrodutionC++---------------"introduccion"                                                                                           
+2. HelloWorld.cpp---------------"Hola mundo"                                                                                             3. ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
+4. AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
+5. AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
 
 ## *Chapter2: Control Estructures*
 -ControlEstructures-----------"Introdution a las Estructuras de Control"                                       
