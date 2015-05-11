@@ -5,10 +5,11 @@ No solo son ejercicios, es teoria resumida recolectada de libros de gran prestig
 tienen derechos de autor xP. 
 
 ## *Chapter1: Basics of C++*
-1. IntrodutionC++---------------"introduccion"                                                                                           
-2. HelloWorld.cpp---------------"Hola mundo"                                                                                             3. ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
-4. AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
-5. AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
+-IntrodutionC++---------------"introduccion"                                                                                           
+-HelloWorld.cpp---------------"Hola mundo"                                                                                             
+-ScapeSecuence.cpp------------"Escape de secuencia C++ \n, \a, \r, \", \ "                                                             
+-AritmeticsOperators.cpp------"Operadores aritmeticos +, -, *, /, % "                                                                  
+-AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
 
 ## *Chapter2: Control Estructures*
 -ControlEstructures-----------"Introdution a las Estructuras de Control"                                       
@@ -36,7 +37,7 @@ tienen derechos de autor xP.
 -StacticAutomaticArryas.cpp---"Uso de las clases de almacenamiento Estatic y Automatic(Rendimiento)"
 -ArraysCharExample.cpp-----"Inicializacion de Cadenas y Arreglos de Caracteres, Acceso, Modificacion"
 -ArrayAsParametercpp-------"Introduccion funciones y Caracteristicas del paso de arreglos a funciones"
--HistogramExample.cpp-----"Ejemplo de un histrograma usando arreglos"
+-HistogramExample.cpp-----"Ejemplo de un histrograma usando arreglos".
 -RandonQuestion.cpp-------"Ejemplo de juego que generar preguntas aleatoriamente y genera "puntaje" "
 
 
