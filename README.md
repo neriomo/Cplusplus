@@ -16,6 +16,7 @@ tienen derechos de autor xP.
 
 >AlgebraicOperators.cpp-------"Operadores Algebraicos >, <, >=, <=, ==, != "                                                           
 
+
 ## *Chapter2: Control Estructures*
 
 >ControlEstructures-----------"Introdution a las Estructuras de Control"                                       
@@ -54,7 +55,9 @@ tienen derechos de autor xP.
 
 >FibonacciFunctions.cpp-------"Ejemplo de Funcion de Fibonnaci (Recursividad)"
 
->ExampleMenu.cpp--------------"Ejemplod de un menu usando Funciones(Prog Modular)"                                                         
+>ExampleMenu.cpp--------------"Ejemplod de un menu usando Funciones(Prog Modular)"
+
+
 ## *Chapter4: Arrays*
 
 >ArraysIntroduction.cpp-------"Ejemplo de arreglos, tipo de inicializacion y de declaracion"                                           
