@@ -74,6 +74,7 @@ y que puede ser de ayuda para quien desee practicar o recordar el lenguaje.
 
 >RandonQuestion.cpp-------"Ejemplo de juego que generar preguntas aleatoriamente y genera "puntaje" "
 
+>ArraySort.cpp------------"Ejemplo de ordenamiento de arreglos con metodo burbuja"
 
 
 5. Chapter5: Pointers
