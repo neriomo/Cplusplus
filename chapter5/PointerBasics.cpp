@@ -19,14 +19,19 @@ using namespace std;
 int main(){
 	cout<<"EJEMPLO DE PUNTEROS Y OPERADORES DE PUNTEROS\n"<<endl;
 	int *ptrEntero; //un puntero a un entero
-	int entero = 4;
+	int entero ;
 
+	entero = 7;
 	ptrEntero = &entero; //a el ptrEntero se le asigna la direccion de memoria de "entero"
 
 	//ptrEntero apunta a entero.
 	cout<<"La direccion del puntero es  ----> "<<ptrEntero<<endl;
 	cout<<"El valor a el cual apunta el puntero es   ----> "<<*ptrEntero<<endl; // el * es el operador de indireccion
+	cout<<endl;
+	cout<<"& y * Son inverso uno de otro!!\n"<<endl;
 
+	cout<<"&*ptrEntero  "<<&*ptrEntero<<endl;
+	cout<<"*&ptrEntero  "<<*&ptrEntero<<endl;
 
 
 
