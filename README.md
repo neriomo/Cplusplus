@@ -78,7 +78,8 @@ y que puede ser de ayuda para quien desee practicar o recordar el lenguaje.
 
 
 5. Chapter5: Pointers
--
+
+>PointerBasics.cpp--------"Definicion, operadores para apuntadores"
 
 
 
