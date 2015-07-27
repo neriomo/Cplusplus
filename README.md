@@ -35,7 +35,7 @@ y que puede ser de ayuda para quien desee practicar o recordar el lenguaje.
 
 ## *Chapter3: Functions*
 
--FunctionsIntroduction--------"Introdution a las funciones en C++"      
+>FunctionsIntroduction--------"Introdution a las funciones en C++"      
 
 >FunctionsDefinition.cpp------"Definicion de una funcion con parametros por valor"                                                     
 
