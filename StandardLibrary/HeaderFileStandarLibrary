@@ -20,7 +20,7 @@ Introduccion a los Archivo de encabezado de la biblioteca estandar
 #include <cstdlib> Contiene prototipos de funcion para la conversion de numeros a texto, de texto a numeros,
                    para asignacion de memoria, de numeros aleatorios y otras funciones utiles.
                    
-#include <cstring> Contine prototipos de funcion para funcion
+#include <cstring> Contine prototipos de funciones para manipulacion de cadenas
 
 #include <ctime>   Contiene prototipos de funcion y tipos para manipular fechas y horas.
 
