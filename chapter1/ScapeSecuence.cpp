@@ -1,5 +1,5 @@
 /*Nerio Moran edo Merida miercoles,25 de febreo 2015 19:10
-Programa para intruce las secuencias de espace en c++
+Programa para introducir las secuencias de espace en c++
 */
 
 #include <iostream> 
