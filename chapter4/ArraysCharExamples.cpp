@@ -20,7 +20,7 @@ como para almacenar la cadena+ caracter nulo.
 
 *Un arreglo de caracteres tambien se puede inicializar mediante caracteres constantes en una lista de inicializacion.
 
-char cadena1[] = {´p´, ´r´, ´i´, m´, ´e´, ´r´,´o´, ´\0´ }; si no proporcionamos el caracter nulo no seria una cadena sino
+char cadena1[] = {'p', 'r', 'i', 'm', 'e', 'r','o', '\0' }; si no proporcionamos el caracter nulo no seria una cadena sino
 																				un simple arreglo de caracteres.
 
 Debido a que un arreglo es una cadena podemos acceder a los caracteres individuales de una cadena de manera directa mediante
@@ -50,7 +50,7 @@ char cadena1[20];  //declaracion de arreglo de caracteres sin inicializacion
 char cadena2[] = "literal de cadena";		//declaracion y declaracion mediante literales de cadena
 
 cout<<"introduzca la cadena1 \"Hola amigos\" "<<endl;
-cin>>cadena1;						//escritura de una cadena directamente desde el terminal (solo se lee amigos) 
+cin>>cadena1;						//escritura de una cadena directamente desde el terminal (solo se lee 'hola\0') 
 
 cout<<"la cadena1 es "<<cadena1<<"\nla cadena2 es "<<cadena2<<endl;
 
