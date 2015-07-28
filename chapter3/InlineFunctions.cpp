@@ -16,7 +16,7 @@ Reduce el tiempo de ejecucion de un programa
 #include <iostream>
 using namespace std;
 
-inline long long Factorial(const int numero)		// no necesita prototipos por lo general si la funcion es muy grande es ignorado 
+inline long long Factorial(const int numero)		// no necesita prototipos por lo general si la funcion es muy pequeño es ignorado 
 {													// el calificador inline por el compilador (Usar libreria Chronos y demostrar mejora)
 	if(numero == 1 or numero == 0)
 		{
