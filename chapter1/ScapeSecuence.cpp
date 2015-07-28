@@ -23,7 +23,7 @@ cout<<"Posicion del tabulador\n";
 cout<<"============="<<endl;
 
 cout<<"Retorno de Carro"<<endl;
-cout<<"Este operador \\r es un retorno de carro(no avanza a la siguiente linea)-->  ";
+cout<<"Este operador \\r es un retorno de carro(no avanza a la siguiente linea)-->  "<<endl;
 cout<<"linea usando retorno de carro  <--\r";
 cout<<endl;
 
