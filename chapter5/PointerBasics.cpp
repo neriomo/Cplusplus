@@ -1,5 +1,5 @@
 /*Nerio Moran edo Merida 13 de mayo 2015 20:41	
-Introduccion Apuntadores y Cadenas*/
+Introduccion Apuntadores */
 
 /*Una de las caracteristicas mas poderosas del leguaje de programacion C++ es el apuntador.
 Los apuntadores permiten simular el paso por referencia y crear y manipular estructuras 
@@ -25,7 +25,7 @@ int main(){
 	ptrEntero = &entero; //a el ptrEntero se le asigna la direccion de memoria de "entero"
 
 	//ptrEntero apunta a entero.
-	cout<<"La direccion del puntero es  ----> "<<ptrEntero<<endl;
+	cout<<"La direccion de memoria del entero es  ----> "<<ptrEntero<<endl;
 	cout<<"El valor a el cual apunta el puntero es   ----> "<<*ptrEntero<<endl; // el * es el operador de indireccion
 	cout<<endl;
 	cout<<"& y * Son inverso uno de otro!!\n"<<endl;
