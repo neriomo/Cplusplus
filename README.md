@@ -81,7 +81,11 @@ y que puede ser de ayuda para quien desee practicar o recordar el lenguaje.
 
 >PointerBasics.cpp--------"Definicion, operadores para apuntadores"
 
+>LevelAccessPrivileges.cpp-----"Privilegio de niveles de acceso Mayor,Menor privilegio"
 
+>PointerAritmetic.cpp-------"Aritmetica de apuntadores y relacion con arreglos"
+
+>FunctionPointers.cpp---"Apuntadores a funciones, Arreglo de punteros, Paso por referencia de funciones"
 
 ##StandarLibrary:
 -HeaderFileStandarLibrary-----"Libreria Estandard de C++ Introdution a algunas de las librerias y usos"
@@ -92,11 +96,12 @@ y que puede ser de ayuda para quien desee practicar o recordar el lenguaje.
 
 #Por hacer
 1. **Utilizar buenas practicas (Codigo Limpio)**
+2. **Realizar ejemplos del manejo de cadenas usando la liberia <cstring>**
+
 
 
 #Elfriede Jelinek 
 >En esta nueva era, lo que te hace libre es el conocimiento, no el trabajo.
-
 
 #Anxo Pérez
 >Invierte en conocimiento. Si tienes un momento muerto, aprende algo nuevo y habrá cobrado vida.
