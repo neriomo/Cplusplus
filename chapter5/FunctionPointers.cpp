@@ -60,7 +60,7 @@ cout<<"\n";
 }
 
 void burbuja(int trabajo[], const int tamano, bool(*compara)(int,int) )		//en este caso compara es un puntero que apunta a una funcion
-{
+{																			//recibe dos enteros y retorna un booleano.
 	for(int pasada =1; pasada< tamano; pasada++)
 		{
 			for(int cuenta = 0; cuenta<tamano-1; cuenta++)
@@ -93,3 +93,21 @@ bool descendente (int a , int b)
 
 	return a < b;
 }
+
+
+/*
+bool (*compara)(int,int)	recibe dos enteros retorna un bool		
+bool *compara(int, int)		recibe dos enteros retorna un puntero a bool
+
+Una puntero a una funcion se puede declarar:
+
+void (*ptrFunction)(int[], int, char *const) = funcionX ;
+ptrFunction es un puntero a una funcionX que recibe un arreglo de entero, un entero y un puntero constate de tipo char
+y no retorna nada.
+
+Un arreglo de punteros se puede declarar:
+
+void (*ptrFunction[tamano])(int, char *const) = {funcionX, funcionY, funcionZ, ... funcionN};
+prtFunction es un arreglo de punteros que recibe un enero y un puntero constante de tipo char.
+
+*/ 
