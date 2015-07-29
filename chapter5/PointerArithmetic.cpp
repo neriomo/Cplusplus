@@ -19,9 +19,9 @@ int b[5];
 int *ptrB = b;    esto es equivalente a  ptrB = &b[0];
 
 para hacer referencia a los elementos de b podemos usar la expresion desplazamiento para apuntadores:
-*(b+1) = b[1]		o  (ptrB +1) 
-*(b+2) = b[2]		o  (ptrB +2)
-*(b+3) = b[3]		o  (ptrB +3)
+*(b+1) = b[1]		o  *(ptrB +1) 
+*(b+2) = b[2]		o  *(ptrB +2)
+*(b+3) = b[3]		o  *(ptrB +3)
 .						.
 .						.
 .						.
