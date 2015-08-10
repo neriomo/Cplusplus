@@ -1,0 +1,97 @@
+Nerio Moran edo Merida 9 de julio 2015 21:00	
+Introduccion a POO, objetos, caracteristicas.
+
+La programacion orientada a objetos es un paradigma de programacion muy usado en 
+el mundo del desarrollo del software, nace como resultado de los problemas complejos
+que se manejas en la programacion estructurada. La POO se enfatiza en los datos,
+la idea es diseñar formatos de datos que se correspondan con las caracteristicas
+escenciales de un problema.
+
+El principio fundamental de los lenguajes orientados a objetos es combinar en una unica
+unidad o modulo, tanto los datos como las funciones que operan sobre los datos.Tal unidad
+se llama "Objeto".
+
+Dentro de las caracteristicas importantes que podemos encontrar en la POO tenemos:
+===================================================================================
+-Abstraccion: Propiedad de los objetos conocidad como abstraccion consiste en 
+diferenciar las propiedades externas de una entidad y los detalles y composicion
+interna. Es un medio de reducir la complejidad donde las caracteristicas y 
+procesos se reducen a las propiedades escenciales.
+
+-Encapsulamiento de datos: Es el proceso de agrupar datos y operaciones 
+relacionadas bajo la misma unidad de programacion. Objetos que poseen las mismas caracteristicas
+y comportamiento se agrupan en clases(mas adelante).
+
+-Ocultacion de datos: permite separar el aspecto de un componente, definido por su interfaz con el 
+exterior
+
+-Herencia: Los objetos pueden relacionarse entre si, por lo que podemos relacionarlos para aprovechar
+las caracteristicas y comportamiento que se comparten.
+
+A la herencia se le atribuye la generalizacion y especializacion:
+
+--generalizacion: Propiedad que permite compartir informacion entre dos entidades evitando
+redundancia. 
+
+--especializacion: propiedad que permite (definir) objetos a partir de otros.!, el nuevo
+objeto tendra las caracteriticas propias y de otros objetos.
+
+
+-Polimorfismo: Es la propiedad de que un operador o una funcion actuen de modo diferente
+en funcion del objeto sobre el que se aplican.
+
+===================================================================================
+
+El diseño de un programa orientado a objetos contiene, al menos, los siguientes pasos:
+
+1) Identificar los objetos del sistema.
+2) Agrupar en clases a todos los objetos que tengan caracteristicas y comportamiento comunes.
+3) Identificar los datos y operaciones de cada una de las clases.
+4) Identificar las relaciones que pueden existir entre las clases.
+
+
+Un objeto es algo que se visualiza, se utiliza, y juega un rol o papel.
+
+Ejemplo:
+
+*Componentes de videojuegos:
+-Consola.
+-Mandos.
+-Volante.
+-Conectores.
+-Memoria.
+-Acceso a Internet.
+
+Entonces un objeto se puede definir como una entidad individual de un sistema
+y que se caracteriza por un estado y un comportamiento. Desde el punto de 
+vista de la implementacion un objeto es una entidad que posse un conjunto de 
+datos y un conjunto de operaciones(funciones o metodos).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es importante escribir programas que sean claros y faciles de mantener 80:20
+
+La modularizacion de un programa utiliza la nocion de tipo de Dato Abstracto (TDA) siempre
+que sea posible. Si el lenguaje de programacion soporta los tipos que desea el usuario y el
+conjunto de operaciones sobre cada tipo, se obtiene un nuevo tipo de dato llamado TDA.
+
+

@@ -1,19 +1,41 @@
-/*Nerio Moran edo Merida 29 de julio 2015 21:00	
+/*Nerio Moran edo Merida 9 de julio 2015 21:00	
 Introduccion a Clases y POO
 
-La modularizacion de un programa utiliza la nocion de tipo de Dato Abstracto (TDA) siempre
-que sea posible. Si el lenguaje de programacion soporta los tipos que desea el usuario y el
-conjunto de operaciones sobre cada tipo, se obtiene un nuevo tipo de dato llamado TDA.
-
-Una clase es un tipo de dato que encapsula datos(atributos) y funciones (comportamiento),
+Una clase es un tipo de dato definido por el usuario que encapsula datos(atributos) y funciones (comportamiento),
 los datos y las funciones se encuentran intimamente ligados entre si.
+
+Booch: Una Clase es un conjunto de objetos que comparten una estructura y comportamiento comunes.
 
 Para representar un sistema es necesario hacer el uso de Clases u Objetos, atributos y 
 comportamiento de cada objeto y la especificacion de la manera que estos interactuan entre si 
 para llevar a cabo las metas generales del sistema.
 
+Def basica de una clase:
+class NombreClase
+{
+	private:
+	lista atributos;
+
+	public:
+	lista metodos;
+	setters(a,b,c,d)
+	getters()
+	
+	protected:
+	lista atributos y metodos;
+};
+
+public, private y protected son especificadores de la clase.
+El mecanismo principal para ocultar datos es ponerlos en una clase
+y hacerlos privados!
+
+ademas las clases poseen constructores y destructores que permiten definir 
+correctamente un objeto cuando este es instanciado y destruirlo correctamente
+cuando termina el programa.
+
 Por lo general la mayoria de las clases tienen los metodods getters y setters que permiten
 acceder y establecer o configurar los datos(atributos).  
+
 
 Ejemplo clase tiempo
 
@@ -28,8 +50,8 @@ using namespace std;
 class Tiempo 
 {
 public:										//metodos publicos
-	void estableceHora(int, int, int);
-	int obtenerMin();
+	void estableceHora(int, int, int);		//setter
+	int obtenerMin() const;	//getter
 	void imprimeUniversal();
 	void imprimeEstandar();
 	Tiempo();//Constructor
@@ -90,7 +112,7 @@ void Tiempo::imprimeEstandar()
 }
 
 
-int Tiempo::obtenerMin()
+int Tiempo::obtenerMin()const
 {
 	return minuto;
 }
